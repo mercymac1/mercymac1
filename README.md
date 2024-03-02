@@ -1,5 +1,5 @@
 # 👋Hi, I'm Mercy!
-👩🏻‍💻Cloud Engineer Enthusiast sharing about my journey in tech<br> 👩🏻‍🎓AWS Cloud Practitioner Certified<br>🎨 I write about tech, data, and AI on Medium<br>🌺 #sharedlearning is my digital garden
+👩🏻‍💻Cloud Engineer Enthusiast sharing about my journey in tech<br> 👩🏻‍🎓AWS Cloud Practitioner Certified<br>🎨I write about tech, data, and AI on Medium<br>🌺Sharedlearning is my digital garden
 
 
 # 💻 Tech Stack:
